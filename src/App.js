@@ -361,13 +361,13 @@ function App() {
              </span>
              </p>
            <hr/>
-           <hr/>
            <p>I can’t afford the programme. What should I do? 
              <span class="dropdown">
               <div class="dropdown_left"></div>
               <div class="dropdown_right"></div>
              </span>
            </p>
+           <hr/>
             <p>Will I need any equipment? 
              <span class="dropdown">
               <div class="dropdown_left"></div>
